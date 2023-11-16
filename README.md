@@ -9,8 +9,6 @@
   📂 Gustavo, 14y, Trilingual <br>
 </div>
 
-<hr/>
-
 <h2 align="center">🛠️ My Known Languages & Tools</h2>
 
 <br/>
@@ -21,8 +19,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,linux,figma,bootstrap">
   </a>
 </div>
-
-<hr/>
 
 <div align="center">
   <h2>✨ My Contribuitions ✨</h2>
