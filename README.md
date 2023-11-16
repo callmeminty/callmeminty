@@ -1,16 +1,38 @@
-### A passionate programmer from Brazil 🇧🇷
+<h3 align="center">A passionate programmer from Brazil 🇧🇷</h3>
 
-<!--
-**callmeminty/callmeminty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  💻 Currently Working on **Mint-AIO ** <br>
+  🐍 Learning **Python & C++** <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📂 Gustavo, 14y, Trilingual <br>
+</div>
+
+<hr/>
+
+<h2 align="center">🛠️ My Known Languages & Tools</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp"> <br>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,figma,bootstrap">
+  </a>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>✨ My Contribuitions ✨</h2>
+  <br>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=callmeminty&theme=radical&border_radius=3.5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <h2>📊 My stats 📊</h2>
+  <br>
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+  <img align="center" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
