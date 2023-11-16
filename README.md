@@ -6,7 +6,7 @@
   💻 Currently Working on Minty-AIO <br>
   🐍 Learning Python & C++ <br>
 <br>
-  📂 Gustavo, 14y, Trilingual <br>
+  📂 Gustavo, 15y, Trilingual <br>
 </div>
 
 <h2 align="center">🛠️ My Known Languages & Tools</h2>
