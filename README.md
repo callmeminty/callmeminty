@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  💻 Currently Working on **Mint-AIO ** <br>
+  💻 Currently Working on **Minty-AIO** <br>
   🐍 Learning **Python & C++** <br>
 
   📂 Gustavo, 14y, Trilingual <br>
