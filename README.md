@@ -4,9 +4,9 @@
 
 <div align="center">
   💻 Currently Working on Minty-AIO <br>
-  🐍 Learning Python & C++ <br>
+  🐍 Learning Python & GO <br>
 <br>
-  📂 Gustavo, 15y, Trilingual <br>
+  📂 Gustavo, 14y, Trilingual <br>
 </div>
 
 <h2 align="center">🛠️ My Known Languages & Tools</h2>
@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp"> <br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,go"> <br>
   <img src="https://skillicons.dev/icons?i=vscode,linux,figma,bootstrap">
   </a>
 </div>
