@@ -4,7 +4,7 @@
 
 <div align="center">
   💻 Currently Working on Minty-AIO <br>
-  🐍 Learning Python & GO <br>
+  🐍 Learning Python & TypeScript <br>
 <br>
   📂 Gustavo, 14y, Trilingual <br>
 </div>
